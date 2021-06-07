@@ -6,8 +6,7 @@ const Main = () => {
     return (
       <main id="wrapper">
       <Welcome />
-      <EInfo />
- 
+      <EInfo /> 
       </main>
     );
 }
